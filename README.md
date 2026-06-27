@@ -20,7 +20,7 @@ SIA Calc is a powerful, web-based scientific calculator designed for fast and ac
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+) 
-- **Hosting:** Cloudflare Pages (or GitHub Pages/Vercel - *আপনার যেটা ব্যবহার করেছেন সেটা রাখুন*)
+- **Hosting:** Cloudflare Pages
 
 ---
 
