@@ -28,6 +28,6 @@ SIA Calc is a powerful, web-based scientific calculator designed for fast and ac
 
 To run this project locally on your machine, follow these simple steps:
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/shahriaribnealam/sia-calc.git
