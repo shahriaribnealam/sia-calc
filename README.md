@@ -1,4 +1,4 @@
-# SIA Calc 🧮
+# SIA-Calc
 
 SIA Calc is a powerful, web-based scientific calculator designed for fast and accurate calculations. It features a modern, clean, and user-friendly interface to solve everything from basic arithmetic to complex scientific equations.
 
